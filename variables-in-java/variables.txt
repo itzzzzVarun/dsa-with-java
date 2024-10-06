@@ -1,0 +1,20 @@
+Variables and Data Types
+
+  1. Variables
+        A variable is a container (storage area) used to hold data.
+        Each variable should be given a unique name (identifier).
+        eg:
+
+              class Variables {
+                  public static void main(String[] args) {
+                    // Varibales
+                    int a = 5;
+                    String str = "Java";
+                    // Here "a" and "str" are variables of ingere and string type variables
+                    // respectively.
+
+                    // print statements
+                    System.out.println(a);
+                    System.out.println(str);
+                  }
+                }

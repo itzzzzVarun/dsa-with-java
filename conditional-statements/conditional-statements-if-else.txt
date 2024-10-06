@@ -1,0 +1,12 @@
+1. Conditional Statements ‘if-else’
+        The if block is used to specify the code to be executed if the condition specified  in if is true, the else block is executed otherwise.
+        e.g.
+
+        int age = 30;
+        if(age > 18) {
+            System.out.println("This is an adult");
+        } else {
+            System.out.println("This is not an adult");
+        }
+
+
